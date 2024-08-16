@@ -8,7 +8,7 @@ public class ApiError {
 
     private String error;
     private String message;
-    private  Integer status;
+    private Integer status;
     private Object data;
     private LocalDateTime timesTime;
 
